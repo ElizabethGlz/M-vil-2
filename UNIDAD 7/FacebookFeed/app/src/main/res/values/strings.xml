@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacebookFeed</string>
+    <string name="accessToken">1577285135738736|f7d03181ea34e39943a40fe198d8922f</string>
+    <string name="appId">1577285135738736</string>
+    <string name="userId">2142071722567543</string>
+    <string name="fb_login_protocol_scheme">fb1577285135738736</string>
+</resources>
